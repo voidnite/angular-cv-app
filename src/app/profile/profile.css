@@ -1,0 +1,12 @@
+h2 {
+    color: #111;
+    /* soft rose */
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
